@@ -9,7 +9,7 @@ Raw Data Snap from Excel
 ![Excel Snap](https://github.com/delight-byte/project-01/assets/147815073/c1bd6e44-980e-4419-8f2b-8ff5a60dd13c)
 
 # Data and Tools
-Data Source: Online
+Data Source: Big Query 
 
 Data Cleaning: Google Sheets
 
